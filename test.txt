@@ -1,2 +1,3 @@
 why git so hard
-pull 1 
+pull 1
+push 2 
