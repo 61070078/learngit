@@ -1,3 +1,6 @@
 why git so hard
 pull 1
 push 2 
+
+clone1 from jab
+and push
